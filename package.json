@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aayushdhiman01/crypto-exchange/issues"
   },
-  "homepage": "https://github.com/aayushdhiman01/crypto-exchange#readme"
+  "homepage": "https://github.com/aayushdhiman01/crypto-exchange#readme",
+  "dependencies": {
+    "yarn": "^1.22.22"
+  }
 }
