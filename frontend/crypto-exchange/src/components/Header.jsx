@@ -11,13 +11,13 @@ const Header = () => {
       <nav className="navigation">
         <ul>
           <li>
-            About
-          </li>
-          <li>
             Services
           </li>
           <li>
-            Contact
+            SignIn
+          </li>
+          <li>
+            SignOut
           </li>
         </ul>
       </nav>
