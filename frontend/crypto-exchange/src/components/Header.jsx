@@ -17,7 +17,7 @@ const Header = () => {
             SignIn
           </li>
           <li>
-            SignOut
+            SignUp
           </li>
         </ul>
       </nav>
