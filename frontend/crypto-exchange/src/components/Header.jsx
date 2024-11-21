@@ -23,6 +23,7 @@ const Header = () => {
       </nav> */}
       <div className="About">About</div>
       <div className="SignIn">SignIn</div>
+      <div className="SignOut">SignOut</div>
     </header>
   );
 };
