@@ -1,22 +1,28 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./Header.css";
 
 const Header = () => {
-    return (
-        <div className='navbar'>
-            <ul className="nbar">
-                Home
-            </ul>
-            <ul className="nbar">
-                Signin
-            </ul>
-            <ul className="nbar">
-                signup
-            </ul>
-
-        </div>
-
-    )
-}
+  return (
+    <header className="header">
+      <div >
+        Home
+      </div>
+      <nav className="navigation">
+        <ul>
+          <li>
+            About
+          </li>
+          <li>
+            Services
+          </li>
+          <li>
+            Contact
+          </li>
+        </ul>
+      </nav>
+    </header>
+  );
+};
 
 export default Header;
