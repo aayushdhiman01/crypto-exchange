@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 const Header = () => {
     return (
         <div className='navbar'>
-
             <ul className="nbar">
                 Home
             </ul>
