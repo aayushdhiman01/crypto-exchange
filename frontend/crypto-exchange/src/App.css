@@ -25,23 +25,7 @@
   color: white;
 }
 
-.navbar {
 
-  background-color: #282c34;
-  justify-content: space-evenly;
-  display: flex;
-  text-decoration: none;
-  width: 100%;
-  height: auto;
-  top: 0;
-}
-
-.nbar {
-  text-decoration: none;
-  color: aquamarine;
-  height: auto;
-  background-color: #282c34;
-}
 
 .App-link {
   color: #61dafb;
